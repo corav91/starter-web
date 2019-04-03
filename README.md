@@ -15,3 +15,6 @@ This is the purpose
 Deploooooyeee
 
 ## How to Contribute
+
+### Copyright 
+
