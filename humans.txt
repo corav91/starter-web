@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jora Vicens		cora.v91@gmail.somx
 
 # THANKS
 
