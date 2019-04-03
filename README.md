@@ -16,5 +16,8 @@ Deploooooyeee
 
 ## How to Contribute
 
+aisodhaosdhoahdoasdjoasjdasdasdasd
+Pull Requests...adasoihdaoshd
+
 ### Copyright 
 
